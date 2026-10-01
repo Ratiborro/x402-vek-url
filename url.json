@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://hqohr-132-243-127-133.free.pinggy.net",
-  "updated": "2026-10-01T19:17:01Z",
+  "url": "https://vflog-132-243-127-133.free.pinggy.net",
+  "updated": "2026-10-01T20:07:04Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
