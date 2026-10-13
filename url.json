@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://iksbr-132-243-127-133.free.pinggy.net",
-  "updated": "2026-10-13T16:58:45Z",
+  "url": "https://mvbap-132-243-127-133.free.pinggy.net",
+  "updated": "2026-10-13T17:48:48Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
