@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://wuafn-132-243-127-133.free.pinggy.net",
-  "updated": "2026-10-18T21:48:50Z",
+  "url": "https://rgrta-132-243-127-133.free.pinggy.net",
+  "updated": "2026-10-18T22:38:53Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
