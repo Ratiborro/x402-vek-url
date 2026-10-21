@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://zhatz-132-243-127-133.free.pinggy.net",
-  "updated": "2026-10-21T10:55:32Z",
+  "url": "https://lnczs-132-243-127-133.free.pinggy.net",
+  "updated": "2026-10-21T11:46:36Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
