@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://blywo-93-183-90-41.free.pinggy.net",
-  "updated": "2026-10-27T18:42:39Z",
+  "url": "https://cbaik-93-183-90-41.free.pinggy.net",
+  "updated": "2026-10-27T19:33:43Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
