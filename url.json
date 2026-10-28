@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://iidsm-93-183-90-41.free.pinggy.net",
-  "updated": "2026-10-28T05:38:21Z",
+  "url": "https://kxmcu-93-183-90-41.free.pinggy.net",
+  "updated": "2026-10-28T06:29:25Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
