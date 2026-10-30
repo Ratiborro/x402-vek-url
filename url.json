@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://sdggy-93-183-90-41.free.pinggy.net",
-  "updated": "2026-10-30T05:34:28Z",
+  "url": "https://rigxi-93-183-90-41.free.pinggy.net",
+  "updated": "2026-10-30T06:24:31Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
