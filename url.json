@@ -1,6 +1,6 @@
 {
   "service": "vek-agent-shop",
-  "url": "https://utnsz-212-164-38-239.free.pinggy.net",
-  "updated": "2026-11-06T20:21:45Z",
+  "url": "https://emoeo-212-164-38-239.free.pinggy.net",
+  "updated": "2026-11-06T21:11:48Z",
   "note": "vek x402 shop \u2014 current URL. POST /ping 0.001 USDC, POST /ask 0.01 USDC (x402 v1, Base USDC)."
 }
